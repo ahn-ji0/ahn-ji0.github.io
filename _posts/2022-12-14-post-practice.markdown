@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 글 작성
-date: 2022-12-14 14:09:20 +0300
+title: post practice
+date: 2017-09-12 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: mac.jpg # Add image post (optional)
-fig-caption: 노트북 # Add figcaption (optional)
-tags: [gitblog, practice]
+fig-caption: 컴퓨터 # Add figcaption (optional)
+tags: [practice, post]
 permalink: 'post/practice/'
 ---
 
